@@ -1,7 +1,6 @@
 <h1 align="center">ML Engineer & Data Scientist</h1>
 
-I am a passionate **Machine Learning Engineer** and **Data Scientist**.  
-I enjoy turning data into actionable insights and building intelligent systems that solve real-world problems.  
+I am a **Data Scientist** with an engineering background working for industrial corporates. My focus is on using **Machine Learning** to drive projects for efficiency gains. I am experienced in running **large projects** preparing data infrastructures, and delivering proof-of-concept.
 
 - I’m currently finishing up on the [**OSSU**](https://github.com/ossu/data-science) — a free self-taught education in Computer Science  
 - I’m learning more about the math and implementations of ML and DL algorithms  
