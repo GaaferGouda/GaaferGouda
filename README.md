@@ -1,6 +1,6 @@
 <h1 align="center"> Jr.Data Scientist</h1>
 
-I am a **Data Scientist** with an engineering background working for industrial corporates. My focus is on using **Machine Learning** to drive projects for efficiency gains. I am experienced in running  Alhamdulillah **projects** preparing data infrastructures, and delivering proof-of-concept.
+I am a **Data Scientist** with an engineering background working for industrial corporates. My focus is on using **Machine Learning** to drive projects for efficiency gains. I am experienced in running **projects** preparing data infrastructures, and delivering proof-of-concept.
 𝗔𝗰𝗾𝘂𝗶𝗿𝗲𝗱 𝗦𝗸𝗶𝗹𝗹𝘀: Python, Scientific programming, Data visualization, Time-series & Spectral analysis, Modeling, Filtering, Clustering, Gradient descent, Regex, and Text processing.
 - I’m currently finishing up on the [**OSSU**](https://github.com/ossu/data-science) — a free self-taught education in Computer Science  
 - I’m learning more about the math and implementations of ML and DL algorithms  
